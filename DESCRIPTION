@@ -16,6 +16,7 @@ Description: Implements a high performance C++ parser
     Activity samples can be easily read into an R matrix. 
     This allows for storing the raw accelerometer samples in the original 
     binary format to reserve space.
+Depends: R (>= 3.1.0)
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
